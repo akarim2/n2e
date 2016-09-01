@@ -1,1 +1,8 @@
-yyy
+
+up vote
+5
+down vote
+favorite
+	
+
+I m new to bat file. I have folder suppose "A" and this folder has subfolder as "B", "C", "D" these folder again has there own subfolders. my problem is that each subfolders and parent folder have CVS folder , I want to delete that folder from each directories. How to do that in bat file. Thanks in advanced.
